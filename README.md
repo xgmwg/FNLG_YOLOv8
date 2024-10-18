@@ -1,1 +1,2 @@
-# FNLG_YOLOv8
+# We introduced an optimized lightweight model for mango diseases recognition, FNLG (FasterNet-LSKA-Gather-Excite) -YOLOv8n, which addressed the limitations of existing models including slow detection speeds, low accuracy, and challenges in deployment to mobile devices. First of all, FasterNet is introduced to the backbone to bolster the model's feature extraction capabilities and overall recognition performance. Moreover, SPPF is replaced with SPPF-LSKA to achieve increased processing speed while maintaining a consistent receptive field. Additionally, Gather-Excite attention mechanism is integrated into the neck for expedited recognition.
+# You can download our model for training experiments, but not for publication!
